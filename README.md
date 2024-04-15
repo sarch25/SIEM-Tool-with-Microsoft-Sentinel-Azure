@@ -8,18 +8,21 @@ developed a SIEM tool for a home lab by utilizing Azure services. By utilizing A
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Setting up and configuring Azure services for cybersecurity experimentation
+- Designing and implementing a honeypot VM to simulate real-world attack scenarios
+- Utilizing Log Analytics and Azure Sentinel for log collection, analysis, and threat detection
+- Developing and implementing PowerShell scripts for automation and data enrichment
+- Continuous refinement and enhancement of SIEM tool functionality for improved incident response capabilities
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Azure cloud platform
+- Virtual machines (VMs) for experimentation
+- Log Analytics workspace for log collection and analysis
+- Azure Sentinel for cloud-native SIEM capabilities
+- PowerShell scripting for automation
+- IP Geolocation API for enriching data with geographic information
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc

@@ -29,7 +29,7 @@ developed a SIEM tool for a home lab by utilizing Azure services. By utilizing A
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
-![Screenshot 2024-04-04 100636](https://github.com/sarch25/Python-Trading-Bot/assets/130470960/46482be7-003e-4c70-be09-867a43acc6a5)
+![Screenshot 2024-03-09 111204](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/c43384ce-5c87-447c-9faa-bfa17b35e1a1)
 
 
-![Screenshot 2024-04-07 083030](https://github.com/sarch25/Python-Trading-Bot/assets/130470960/2a0d5b60-4752-40c9-8e98-24ab59ac3439)
+

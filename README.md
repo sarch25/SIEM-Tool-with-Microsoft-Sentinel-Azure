@@ -1,7 +1,8 @@
 <h1>SIEM Tool with Microsoft Sentinel Azure</h1>
 
 
-![Screenshot 2024-03-09 110946](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/9961d678-87b2-468c-8e0f-6319d87815e7)
+![Screenshot 2024-03-09 210946](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/609f79f5-61b1-4f1b-9be7-88014d7378cf)
+
 ## Objective
 [Brief Objective - Remove this afterwards]
 

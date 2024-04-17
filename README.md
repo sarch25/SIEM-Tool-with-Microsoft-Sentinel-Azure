@@ -27,7 +27,7 @@ Developed a SIEM tool for a home lab by utilizing Azure services. By utilizing A
 - PowerShell scripting for automation
 - IP Geolocation API for enriching data with geographic information
 
-## Steps
+## Images
 ![Screenshot 2024-03-09 111204](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/c43384ce-5c87-447c-9faa-bfa17b35e1a1)
 ![Screenshot 2024-03-09 115226](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/07d53225-a21b-4669-8b3f-544ae9ed98f1)
 ![Screenshot 2024-03-09 115549](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/52b26df5-e1c4-45b0-8def-6e821db9cde0)

@@ -28,11 +28,11 @@ Developed a SIEM tool for a home lab by utilizing Azure services. By utilizing A
 
 ## Images
 ![Screenshot 2024-03-09 111204](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/c43384ce-5c87-447c-9faa-bfa17b35e1a1)
-![Screenshot 2024-03-09 115226](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/07d53225-a21b-4669-8b3f-544ae9ed98f1)
+
 ![Screenshot 2024-03-09 115549](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/52b26df5-e1c4-45b0-8def-6e821db9cde0)
 ![Screenshot 2024-03-09 120220](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/aa658682-8c53-4e33-8252-433240ab945d)
 ![Screenshot 2024-03-09 154232](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/1457cf8c-0c76-4712-a15b-3ea852dd76bd)
-![Screenshot 2024-03-09 154419](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/f1dd1a91-577a-4493-a4ef-ffeb0e816b19)
+
 ![Screenshot 2024-03-09 160339](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/34e80863-b57a-4bdb-8b20-f704589912f3)
 ![Screenshot 2024-03-09 163126](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/d540f91b-f236-4975-8718-b00bcab37e04)
 ![Screenshot 2024-03-09 163621](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/48858b30-6371-4c3e-8515-b0a6774ab554)

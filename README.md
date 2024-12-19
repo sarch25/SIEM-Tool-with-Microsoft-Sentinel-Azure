@@ -3,7 +3,11 @@
 ## Summary
 
 
-Developed a SIEM tool for a home lab by utilizing Azure services. By utilizing Azure's cloud platform, I created a virtual environment for testing purposes. Specifically, I configured a honeypot virtual machine (VM) with purposefully disabled firewalls to mimic actual attack scenarios. A key component of the project was setting up an Azure workspace for Log Analytics, which acted as a repository for gathering and processing logs from the virtual machine used as a honeypot. By improving situational awareness and proactive threat identification, integration with Microsoft's cloud-native SIEM solution, Azure Sentinel, offered real-time visibility into global login attempts on a dynamic global map. Additionally, I retrieved unsuccessful login data from Windows Security Event Logs using PowerShell scripts for automation, and I used a third-party IPGeolocation API to enhance it with geographic information. By streamlining the analysis process, this automation enhanced incident response capabilities.
+Developed a SIEM tool for a home lab by utilizing Azure services. By utilizing Azure's cloud platform, I created a virtual environment for testing purposes. Specifically, I configured a honeypot virtual machine (VM) with purposefully disabled firewalls to mimic actual attack scenarios. 
+
+A key component of the project was setting up an Azure workspace for Log Analytics, which acted as a repository for gathering and processing logs from the virtual machine used as a honeypot. By improving situational awareness and proactive threat identification, integration with Microsoft's cloud SIEM solution, Azure Sentinel, it provided real-time visibility into global login attempts on a dynamic global map. 
+
+Additionally, I retrieved unsuccessful login data from Windows Security Event Logs using PowerShell scripts for automation, and I used a third-party IPGeolocation API to enhance it with geographic information. By streamlining the analysis process, this automation enhanced incident response capabilities.
 
 ![Screenshot 2024-03-09 210946](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/609f79f5-61b1-4f1b-9be7-88014d7378cf)
 

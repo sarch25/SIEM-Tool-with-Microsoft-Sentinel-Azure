@@ -31,14 +31,14 @@ Additionally, I retrieved unsuccessful login data from Windows Security Event Lo
 
 ## Images
 
-#### Configured Windows Defender Firewall settings, disabling protections to expose my virtual machine to attacks from anywhere in the world.
-
-![Screenshot 2024-03-09 111204](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/c43384ce-5c87-447c-9faa-bfa17b35e1a1)
-#
-
 #### Created a honeypot in Azure, deploying a virtual machine with intentional vulnerabilities to attract and analyze potential cyberattacks.
 
 ![Screenshot 2024-03-09 115549](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/52b26df5-e1c4-45b0-8def-6e821db9cde0)
+#
+
+#### Adjusted Windows Defender Firewall settings to intentionally disable protections, leaving my virtual machine exposed to potential attacks from any global source.
+
+![Screenshot 2024-03-09 111204](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/c43384ce-5c87-447c-9faa-bfa17b35e1a1)
 #
 
 #### Configured Azure Log Analytics to collect data from the virtual machine by linking it to a Log Analytics workspace. Set up data collection rules to gather system logs, performance metrics, and security events, enabling centralized monitoring and integration with Azure Sentinel for threat analysis.

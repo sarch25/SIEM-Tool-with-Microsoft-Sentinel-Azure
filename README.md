@@ -30,6 +30,9 @@ Additionally, I retrieved unsuccessful login data from Windows Security Event Lo
 - IP Geolocation API for enriching data with geographic information
 
 ## Images
+
+Configured Windows Defender Firewall settings, disabling protections to expose my virtual machine to attacks from anywhere in the world.
+
 ![Screenshot 2024-03-09 111204](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/c43384ce-5c87-447c-9faa-bfa17b35e1a1)
 
 

@@ -36,7 +36,7 @@ Additionally, I retrieved unsuccessful login data from Windows Security Event Lo
 ![Screenshot 2024-03-09 115549](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/52b26df5-e1c4-45b0-8def-6e821db9cde0)
 #
 
-#### Adjusted Windows Defender Firewall settings to intentionally disable protections, leaving my virtual machine exposed to potential attacks from any global source.
+#### Adjusted Windows Defender Firewall settings to intentionally disable protections, leaving my virtual machine exposed to potential attacks from any global threat actor.
 
 ![Screenshot 2024-03-09 111204](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/c43384ce-5c87-447c-9faa-bfa17b35e1a1)
 #

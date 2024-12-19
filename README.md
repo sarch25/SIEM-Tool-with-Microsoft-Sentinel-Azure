@@ -36,29 +36,20 @@ Configured Windows Defender Firewall settings, disabling protections to expose m
 ![Screenshot 2024-03-09 111204](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/c43384ce-5c87-447c-9faa-bfa17b35e1a1)
 
 
+Created a honeypot in Azure, deploying a virtual machine with intentional vulnerabilities to attract and analyze potential cyberattacks.
+
 ![Screenshot 2024-03-09 115549](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/52b26df5-e1c4-45b0-8def-6e821db9cde0)
 
 
+Configured Azure Log Analytics to collect data from the virtual machine by linking it to a Log Analytics workspace. Set up data collection rules to gather system logs, performance metrics, and security events, enabling centralized monitoring and integration with Azure Sentinel for threat analysis.
 ![Screenshot 2024-03-09 120220](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/aa658682-8c53-4e33-8252-433240ab945d)
-
-
 ![Screenshot 2024-03-09 154232](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/1457cf8c-0c76-4712-a15b-3ea852dd76bd)
 
 
-![Screenshot 2024-03-09 160339](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/34e80863-b57a-4bdb-8b20-f704589912f3)
-
-
-![Screenshot 2024-03-09 163126](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/d540f91b-f236-4975-8718-b00bcab37e04)
-
-
-![Screenshot 2024-03-09 163621](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/48858b30-6371-4c3e-8515-b0a6774ab554)
-
-
+Used a PowerShell script to collect failed login attempts to the honeypot, capturing the username, password, and timestamp. Also, integrated the IPGeolocation API within the script to gather geographic information from attacker.
 ![Screenshot 2024-03-09 110905](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/ddeeae1f-e7df-417d-9bb1-84b2c68c05bc)
 
 
-![Screenshot 2024-03-09 210905](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/f0ae788d-5b02-462d-9ecc-0d657558f656)
-
-
-![Screenshot 2024-03-09 310905](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/e9d1935f-8521-4248-a7e7-db3d03168b09)
+This dynamic map visualizes real-time login attempts across the globe. Each attack is geolocated using IPGeolocation, with a counter tracking and displaying the number of attacks over time.
+![Screenshot 2024-03-09 210946](https://github.com/sarch25/SIEM-Tool-with-Microsoft-Sentinel-Azure/assets/130470960/609f79f5-61b1-4f1b-9be7-88014d7378cf)
 

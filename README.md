@@ -24,7 +24,7 @@ Additionally, I retrieved unsuccessful login data from Windows Security Event Lo
 
 
 - Azure Sentinel for SIEM capabilities
-- Virtual machines (VMs) for experimentation
+- Virtual machines for experimentation
 - Log Analytics workspace for log collection and analysis
 - PowerShell scripting for automation
 - IP Geolocation API for enriching data with geographic information
